@@ -54,7 +54,9 @@ notebook
 numba
 numpy
 octave-kernel
+opencv-python
 opengen
+openpiv
 openpyxl
 orange3
 pandas
