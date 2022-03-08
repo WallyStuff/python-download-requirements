@@ -34,7 +34,7 @@ ipyvtklink
 ipywidgets
 isort
 itsdangerous
-jax
+# jax[cuda]
 jupyter
 jupyter-client
 jupyter-console
