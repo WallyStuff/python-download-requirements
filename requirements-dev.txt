@@ -17,6 +17,7 @@ django-filter
 djangorestframework
 dtreeviz
 exifread
+fipy
 flake8
 flask
 flask-admin
