@@ -60,6 +60,7 @@ opengen
 openpiv
 openpyxl
 orange3
+ortools
 pandas
 pandas-profiling
 pillow
