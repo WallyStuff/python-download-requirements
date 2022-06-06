@@ -1,8 +1,3 @@
-MDAnalysis
-PyQt5
-PyQt6
-PySide6
-Werkzeug
 astroid
 autopep8
 beautifulsoup4
@@ -43,8 +38,10 @@ jupyter-core
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlab
+maicos
 matplotlib
 meshio
+MDAnalysis
 mlflow
 mpi4py
 nb-lua-kernel
@@ -74,6 +71,9 @@ pyinstaller
 pyjac
 pylint
 pyomo
+PyQt5
+PyQt6
+PySide6
 pytest
 pyvista
 pyyaml
@@ -100,6 +100,7 @@ torch
 torchvision
 tqdm
 voila
+Werkzeug
 wtforms
 xgboost
 xlrd
