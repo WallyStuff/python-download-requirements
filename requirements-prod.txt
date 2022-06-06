@@ -242,7 +242,6 @@ pluggy==1.0.0
 ply==3.11
 pre-commit==2.17.0
 preshed==3.0.6
--e git+https://github.com/waltermateriais/presim.git@90af3608c0e6fa06887d92d038596a6fa543883b#egg=presim
 prettytable==3.1.1
 prometheus-client==0.13.1
 prometheus-flask-exporter==0.18.7
