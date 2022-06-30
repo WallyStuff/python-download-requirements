@@ -30,7 +30,7 @@ ipyvtklink
 ipywidgets
 isort
 itsdangerous
-# jax[cuda]
+jax
 jupyter
 jupyter-client
 jupyter-console
@@ -38,7 +38,7 @@ jupyter-core
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlab
-# maicos
+maicos
 matplotlib
 meshio
 MDAnalysis
