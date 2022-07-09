@@ -38,6 +38,7 @@ jupyter-core
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlab
+KratosMultiphysics-all
 # maicos
 matplotlib
 meshio
